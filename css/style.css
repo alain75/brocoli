@@ -1,0 +1,18 @@
+body{
+	font: 16px sans-serif;
+}
+h1{
+	margin: auto;
+	text-align: center;
+	background: #205081;
+}
+
+p{
+	width: 400px;
+	height: 200px;
+	margin: auto;
+	margin-top: 15px;
+	background:#D8EFE2; 
+	border: solid 1px #205081;
+	text-align: center;
+}
